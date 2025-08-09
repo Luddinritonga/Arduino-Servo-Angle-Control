@@ -1,7 +1,7 @@
 # 🔗 Demo Online
 Simulasi proyek ini dapat Anda lihat di:
 
- [Jalankan langsung di Wokwi](https://wokwi.com/projects/438785782028621825) <br>
+ [Jalankan langsung di Wokwi](https://wokwi.com/projects/438769936799135745) <br>
  [Tonton tutorial di YouTube](https://www.youtube.com/@Ri.tonga24)
  # Kontrol Servo dengan Potensiometer
 
